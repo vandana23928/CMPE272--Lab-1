@@ -12,12 +12,12 @@ This is a simple RESTful web service built with Spring Boot.
 
 1. Clone this repository:
 
-git clone CMPE272_Assignment3_018192941
+git clone CMPE272_Lab-1
 
 
 2. Navigate to the project directory:
 
-cd simple-rest-service_1/simple-rest-service
+cd simple-rest-service
 
 
 3. Build the project:
