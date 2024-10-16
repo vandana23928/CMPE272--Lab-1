@@ -1,0 +1,3 @@
+com\example\simplerestservice\model\Greeting.class
+com\example\simplerestservice\controller\GreetingController.class
+com\example\simplerestservice\SimpleRestServiceApplication.class
